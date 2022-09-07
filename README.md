@@ -1,5 +1,5 @@
 # Bina az scrape tool
-Concurrent tool that scrapes bina.az.
+Concurrent tool that scrapes [bina.az](https://bina.az/)
 
 ## Requirements
 Make sure run the sql file that I provided so you have a table first.
